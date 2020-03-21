@@ -1,5 +1,5 @@
 # MINIGAMES
-This repository includes all of my terminal style games. \
+This repository contains all of my terminal style games. \
 Most of the games here are developed when I was new to programming(still a newbie now tho), so the codes are really messy
 ### TETRIS (Python)
 Runnable but a bit buggy bc it's my first time to program something
